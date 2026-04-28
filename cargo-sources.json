@@ -5579,14 +5579,14 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/spki/spki-0.8.0-rc.4.crate",
-        "sha256": "8baeff88f34ed0691978ec34440140e1572b68c7dd4a495fd14a3dc1944daa80",
-        "dest": "cargo/vendor/spki-0.8.0-rc.4"
+        "url": "https://static.crates.io/crates/spki/spki-0.8.0.crate",
+        "sha256": "1d9efca8738c78ee9484207732f728b1ef517bbb1833d6fc0879ca898a522f6f",
+        "dest": "cargo/vendor/spki-0.8.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"8baeff88f34ed0691978ec34440140e1572b68c7dd4a495fd14a3dc1944daa80\", \"files\": {}}",
-        "dest": "cargo/vendor/spki-0.8.0-rc.4",
+        "contents": "{\"package\": \"1d9efca8738c78ee9484207732f728b1ef517bbb1833d6fc0879ca898a522f6f\", \"files\": {}}",
+        "dest": "cargo/vendor/spki-0.8.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {

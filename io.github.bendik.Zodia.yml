@@ -41,8 +41,8 @@ modules:
 
       - type: git
         url: https://github.com/bendik/zodia.git
-        tag: v0.4.11
-        commit: 2f51646ff7a04ece7270dd8f97a7d5124a1630c6
+        tag: v0.4.12
+        commit: bcf6557eaa26a34b8c51022adb78f76b3e19ad44
 
       # Generated from Cargo.lock by flatpak-cargo-generator.py.
       # Regenerate after any dependency change:
