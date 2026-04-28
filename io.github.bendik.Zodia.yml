@@ -43,6 +43,7 @@ modules:
         url: https://github.com/bendik/zodia.git
         tag: v0.4.12
         commit: bcf6557eaa26a34b8c51022adb78f76b3e19ad44
+        disable-submodules: true
 
       # Generated from Cargo.lock by flatpak-cargo-generator.py.
       # Regenerate after any dependency change:
