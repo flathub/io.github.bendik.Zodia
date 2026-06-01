@@ -4279,6 +4279,19 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://static.crates.io/crates/p2panda-stream/p2panda-stream-0.6.1.crate",
+        "sha256": "a09be2ae329764c49d299e81da615852028f7e59c54bac7e43a4d08f5286d9cc",
+        "dest": "cargo/vendor/p2panda-stream-0.6.1"
+    },
+    {
+        "type": "inline",
+        "contents": "{\"package\": \"a09be2ae329764c49d299e81da615852028f7e59c54bac7e43a4d08f5286d9cc\", \"files\": {}}",
+        "dest": "cargo/vendor/p2panda-stream-0.6.1",
+        "dest-filename": ".cargo-checksum.json"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://static.crates.io/crates/p2panda-sync/p2panda-sync-0.6.1.crate",
         "sha256": "e9dbb323a05aa5c10f668f2515a8755981aba36c5cdeed9f860ca86ddd86bee8",
         "dest": "cargo/vendor/p2panda-sync-0.6.1"
