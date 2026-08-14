@@ -6424,6 +6424,19 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://static.crates.io/crates/reqwest/reqwest-0.12.28.crate",
+        "sha256": "eddd3ca559203180a307f12d114c268abf583f59b03cb906fd0b3ff8646c1147",
+        "dest": "cargo/vendor/reqwest-0.12.28"
+    },
+    {
+        "type": "inline",
+        "contents": "{\"package\": \"eddd3ca559203180a307f12d114c268abf583f59b03cb906fd0b3ff8646c1147\", \"files\": {}}",
+        "dest": "cargo/vendor/reqwest-0.12.28",
+        "dest-filename": ".cargo-checksum.json"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://static.crates.io/crates/reqwest/reqwest-0.13.4.crate",
         "sha256": "219c5811de6525e5416c7d5d53bb656d3afdbc6c5af816e0802bcfa42dbdc1c3",
         "dest": "cargo/vendor/reqwest-0.13.4"
